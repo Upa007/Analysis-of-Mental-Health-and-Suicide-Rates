@@ -1,1 +1,6 @@
 # Analysis-of-Mental-Health-and-Suicide-Rates
+This project conducted an in-depth examination of global mental health infrastructure data and suicide statistics across countries, age groups and genders to uncover insightful patterns, trends
+and solutions. A structured MySQL database was designed using a normalized entityrelationship diagram for efficient storage and analysis. Rigorous data analysis in Python combined with compelling visualizations revealed several key insights regarding correlates of
+suicide rates and high-risk demographic groups. The evidence gathered allows us to provide targeted, data-driven recommendations to key stakeholders for future suicide prevention and mental health promotion programs. 
+
+Our analysis study on mental health demonstrated the flexibility of a well-designed database in bringing heterogeneous public health data together and providing meaningful insights. With the help of our relational database management system, we were able to conduct advanced correlation analysis with efficient storage and retrieval, demonstrating strong infrastructure-suicide rate correlations. Flexible data modeling, querying, and visualization were made possible by the database design, allowing trends such as rising rates of male suicide worldwide among certain age groups to be shown.
